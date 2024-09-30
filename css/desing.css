@@ -208,7 +208,7 @@ h2,h3{
 
 .cabeçalho-imagem img {
   height: 30px;
-  margin-right: 10px;
+  margin-right: 1px;
 }
 
 .cabeçalho-texto {
@@ -305,7 +305,7 @@ hr{
 }
 
 .item-ft img {
-  width: 2em;
+  width: 120px;
   height: auto;
 }
 
