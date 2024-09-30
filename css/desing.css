@@ -171,11 +171,14 @@ h2,h3{
   display: flex;
   width: 300px;
 }
-.add{
-  text-align: center;
-  margin-top: 320px;
-  margin-left: 10px;
-  color: var(---cor-texto);
+
+.adds{  
+  position: absolute;
+  top: 60%; 
+  margin-top: 15px;
+  
+  text-align: center;  
+  color:black;
 }
 .lead {
   font-size: 1.3rem;
