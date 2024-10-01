@@ -524,3 +524,42 @@ span{
   background-color: var(---link-color-hover);
    box-shadow: -1px -1px 3px rgba(255, 255, 255, 0.63), 1px 1px 3px #d2d904; 
 }
+
+
+.container3 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 30vh;
+  background-color: var(--body-bg);
+}
+
+.card {
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  text-align: center;
+  width: 300px;
+}
+
+.card h3 {
+  margin-bottom: 15px;
+  color: #333;
+}
+
+.card p {
+  font-size: 18px;
+  color: #25D366; /* Cor típica do WhatsApp */
+  font-weight: bold;
+}
+
+.card a {
+  text-decoration: none;
+  color: #25D366;
+}
+.card img {
+  width: 24px;
+  height: 24px;
+  margin-right: 10px;
+}
