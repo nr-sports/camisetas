@@ -174,7 +174,7 @@ h2,h3{
 
 .adds{  
   position: absolute;
-  top: 60%; 
+  top: 55%; 
   margin-top: 15px;
   
   text-align: center;  
@@ -305,12 +305,12 @@ hr{
 }
 
 .item-ft img {
-  width: 120px;
-  height: auto;
+  width: auto;
+  height: 40px;
 }
 
 .up svg {
-  width: 40px;
+  width: 30px;
   color: var(---destaque);
 }
 
@@ -342,6 +342,7 @@ hr{
   font-size: 16px;
   max-width: 500px;
   margin: 0 auto 40px;
+  color: var(---cor-texto);
 }
 
 .photo-gallery .intro p {
@@ -563,3 +564,4 @@ span{
   height: 24px;
   margin-right: 10px;
 }
+
